@@ -321,7 +321,7 @@ variables:
       button_down_long: [down_hold]
       button_down_release: [down_long_release]
     zigbee2mqtt:
-      button_on_short: [on-press]
+      button_on_short: [on_press]
       button_on_long: [on-hold]
       button_on_release: [on-hold-release]
       button_off_short: [off-press]
